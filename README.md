@@ -1,3 +1,6 @@
+## Notice
+Were transitioning to new owner. If you want future NullOS/BooleOS updates, go to: https://github.com/BooleSystems/BooleOS
+
 # NullOS
 
 > A bare-metal x86 (32-bit) operating system written from scratch in C99 and x86 Assembly.
